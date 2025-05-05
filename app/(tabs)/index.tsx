@@ -91,8 +91,8 @@ export default function App() {
       
       return acc;
     }, []);
-    
-    return [...new Set(allSynonyms)]; // Remove duplicates
+    // Remove duplicates
+    return [...new Set(allSynonyms)]; 
   };
 
   return (
