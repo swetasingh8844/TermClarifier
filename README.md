@@ -2,6 +2,8 @@
 
 A single-screen React Native (Expo) app that helps users clarify any term they type in. The app fetches definitions from the Dictionary API and displays them in a clean, user-friendly interface.
 
+![TermClarifier](https://github.com/user-attachments/assets/9745eb3e-68ae-47ae-ac69-9bbcbad261a3)
+
 ## Features
 
 - Input box for users to type terms
